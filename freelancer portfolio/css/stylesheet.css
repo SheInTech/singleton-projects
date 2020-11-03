@@ -1,0 +1,102 @@
+body {
+    text-align: center;
+}
+
+#head {
+    background-color: #1abc9c;
+    padding: 200px 0 90px;
+    color: #ffffff;
+}
+
+.header-image {
+    width: 15rem;
+}
+
+h1 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: #ffffff;
+    padding: 80px 0px;
+    font-size: 5rem;
+}
+
+/***** navbar *****/
+#mainNav {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#brandtext {
+    font-size: 30px;
+}
+
+.nav-item {
+    padding: 16px 16px;
+}
+
+/*** portfolio***/
+#portfolio {
+    padding-bottom: 100px;
+}
+
+h2 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: #393e46;
+    padding: 80px 0px;
+    font-size: 3rem;
+    padding-bottom: 50px;
+}
+
+.imgstyle {
+    padding: 50px 30px;
+}
+
+/*****ABOUT****/
+#about {
+    color: #ffffff;
+    background-color: #1abc9c;
+}
+
+.about-heading {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    padding: 80px 0px;
+    font-size: 3rem;
+    color: #ffffff;
+}
+
+.pre-wrap {
+    white-space: pre-wrap;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: left;
+}
+
+/**********contact-in-dark************/
+#darkcontact {
+    background-color: #393e46;
+}
+
+.darkcontact {
+    color: #ffffff;
+}
+
+.dctext {
+    color: white;
+    font-size: 1.5rem;
+}
+
+/******footer***********/
+#footer {
+    background-color: #1a252f;
+    color: #ffffff;
+    padding-bottom: 10px;
+}
+
+.footer {
+    padding-top: 20px;
+}
